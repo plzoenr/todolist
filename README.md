@@ -1,6 +1,10 @@
-## START SERVER
-For start the server use
-`node server.js`
+## Setup Instruction
+
+Install package
+$ `npm install`
+
+Start server
+$ `node server.js`
 
 ---
 
