@@ -4,8 +4,9 @@ For start the server use
 
 ---
 
+# API DOCUMENTATION
 
-# Show All Tasks
+## Show All Tasks
 
 Get All of tasks that we have created
 
@@ -39,7 +40,7 @@ Show all the data of tasks
 ---
 
 
-# Show Specific Tasks
+## Show Specific Tasks
 
 Get the detail of specific tasks
 
@@ -78,7 +79,7 @@ Show data for task id 1
 
 ---
 
-# CREATE TASKS
+## CREATE TASKS
 
 Allow User to create their tasks.
 
@@ -133,7 +134,7 @@ Allow User to create their tasks.
 
 ---
 
-# Update Tasks
+## Update Tasks
 
 Allow User to update their tasks.
 
