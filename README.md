@@ -3,13 +3,16 @@
 ## 1. Clone project
 $ `git clone https://github.com/plzoenr/todolist.git`
 
-## 2. Install package
+## 2.Move in clone directory
+$ `cd todolist`
+
+## 3. Install package
 $ `npm install`
 
-## 3. Start server
+## 4. Start server
 $ `node server.js`
 
-## 4. The link base on port 3000
+## 5. The link base on port 3000
 example url: `http:localhost:3000/tasks` 
 
 ---
