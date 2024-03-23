@@ -1,9 +1,9 @@
 ## Setup Instruction
 
-Install package
+## 1. Install package
 $ `npm install`
 
-Start server
+## 2. Start server
 $ `node server.js`
 
 ---
